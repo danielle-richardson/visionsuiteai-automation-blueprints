@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="assets/simple-logo.png" alt="Vision Suite AI Logo" width="400"/>
+  <img src="assets/simple-logo.png" alt="Vision Suite AI Logo" width="250"/>
 </p>
 
 <h1 align="center">Vision Suite AI – Automation Blueprints</h1>
