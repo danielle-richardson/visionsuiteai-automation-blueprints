@@ -1,7 +1,7 @@
 <h1 align="center">Google Places B2B Lead Generation</h1>
 
 <p align="center">
-  <img src="assets/GooglePlacesLeadGeneration.png" alt="Make.com Google Lead Mockup" width="200"/>
+  <img src="../assets/GooglePlacesLeadGeneration.png" alt="Make.com Google Lead Mockup" width="800"/>
 </p>
 
 **Challenge:** A growing B2B service business was manually researching Google Places for potential customers, spending 15+ hours weekly hunting for contact details. This led to inconsistent lead quality and limited growth potential.
