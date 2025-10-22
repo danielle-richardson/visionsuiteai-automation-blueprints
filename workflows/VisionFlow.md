@@ -1,6 +1,9 @@
 <h1 align="center">Vision Flow: AI-Powered Speed-to-Lead System</h1>
 
 <p align="center">
+  <img src="../assets/VisionFlow-steps.png" alt="Vision Flow Speed-to-Lead System" width="800"/>
+</p>
+<p align="center">
   <img src="../assets/VisionFlow1.png" alt="Vision Flow Speed-to-Lead System" width="800"/>
 </p>
 
@@ -12,12 +15,12 @@
 
 ## ⚡ System Features
 
-- **🚀 Instant Response** - SMS sent within seconds of form submission
-- **🤖 AI-Powered Calling** - Intelligent phone calls using Vapi for non-responders  
-- **🛡️ TCPA Compliant** - Built-in STOP word detection and opt-out protection
-- **🔄 Intelligent Retry Logic** - No lead gets over-contacted or lost in the system
-- **📊 Real-time Qualification** - AI classifies interest levels automatically
-- **📈 Complete Audit Trail** - Every interaction logged in Airtable for analysis
+- **Instant Response** - SMS sent within seconds of form submission
+- **AI-Powered Calling** - Intelligent phone calls using Vapi for non-responders  
+- **TCPA Compliant** - Built-in STOP word detection and opt-out protection
+- **Intelligent Retry Logic** - No lead gets over-contacted or lost in the system
+- **Real-time Qualification** - AI classifies interest levels automatically
+- **Complete Audit Trail** - Every interaction logged in Airtable for analysis
 
 ---
 
@@ -151,7 +154,6 @@ Form Submission → Airtable (Lead Capture) → Lead Validation → Opt-Out Chec
 
 🔗 [visionsuite.ai](https://visionsuite.ai)  
 📧 visionsuiteai@gmail.com  
-🎥 [Watch the Build Guide](https://www.youtube.com/watch?v=BNa2mAAV7l8)
 
 ---
 
