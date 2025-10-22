@@ -25,16 +25,10 @@ This repository is a showcase of:
 
 - **[Vision Flow – Speed-to-Lead System](workflows/VisionFlow.md)**    
   Never lose a hot lead again. Automatically replies within 5 minutes via SMS/phone/email, qualifies the lead, and alerts the business owner.  
-  → ROI: +5–10 clients/month captured who would have been lost.  
-
-- **[Vision Concierge – 24/7 SMS & WhatsApp Booking](workflows/VisionConcierge.md)** 
-  AI-powered booking agent available 24/7 on SMS/WhatsApp. Answers questions, checks calendar availability, and books appointments automatically.  
-  → ROI: Capture bookings while you sleep.  
-
-- **[Vision Desk – AI Executive Assistant](workflows/VisionDesk.md)**  
-  Turns voice notes into tasks, meetings, and client follow-ups. Helps business owners offload repetitive admin.  
-  → ROI: 10+ hours saved weekly per executive.  
-
+  
+- **[Google Places B2B Lead Generation Automation](workflows/GooglePlacesLeadGeneration.md)**  
+  Searches Google Places on autopilot, enriches business data through multiple APIs, eliminates duplicates automatically, and delivers clean, qualified leads directly to Google Sheets.
+  
 ---
 
 ## 📂 Repository Structure  
